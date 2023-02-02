@@ -9,7 +9,7 @@ O projeto foi desenvolvido no Flutter utilizando de uma API externa para a obten
 ## Como executar
 
 Para executar o projeto, é necessário ter o Flutter instalado em sua máquina. Para isso, siga as
-instruções do site (oficial do Flutter)[https://docs.flutter.dev/get-started/install].
+instruções do site [oficial do Flutter](https://docs.flutter.dev/get-started/install).
 
 Apos a instalação, será necessário executar os seguintes comandos:
 ```bash
@@ -19,7 +19,11 @@ Apos a instalação, será necessário executar os seguintes comandos:
 ```
 
 ## Imagens do projeto
-
+<div style="justify-content: space-between d-flex">
 ![image](Screenshot_20230202_091228.png)
-![image](Screenshot_20230202_091238.png)
-![image](Screenshot_20230202_091245.png)
+![image](Screenshot_20230202_091228.png)
+![image](Screenshot_20230202_091337.png)
+</div>
+
+
+
