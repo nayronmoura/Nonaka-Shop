@@ -1,16 +1,25 @@
 # nonaka_shop
 
-A new Flutter project.
+O seu app de compras online
 
-## Getting Started
+## Tecnologias
 
-This project is a starting point for a Flutter application.
+O projeto foi desenvolvido no Flutter utilizando de uma API externa para a obtenção dos dados.
 
-A few resources to get you started if this is your first Flutter project:
+## Como executar
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Para executar o projeto, é necessário ter o Flutter instalado em sua máquina. Para isso, siga as
+instruções do site (oficial do Flutter)[https://docs.flutter.dev/get-started/install].
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Apos a instalação, será necessário executar os seguintes comandos:
+```bash
+    flutter pub get
+    
+    flutter run
+```
+
+## Imagens do projeto
+
+![image](Screenshot_20230202_091228.png)
+![image](Screenshot_20230202_091238.png)
+![image](Screenshot_20230202_091245.png)

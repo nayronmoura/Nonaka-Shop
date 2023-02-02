@@ -8,6 +8,7 @@ class AppWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp.router(
       title: "Nonaka Shop",
+      debugShowCheckedModeBanner: false,
       theme: ThemeData(primarySwatch: Colors.lightGreen),
       routerDelegate: Modular.routerDelegate,
       routeInformationParser: Modular.routeInformationParser,
