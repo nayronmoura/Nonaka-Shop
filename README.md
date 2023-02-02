@@ -19,10 +19,10 @@ Apos a instalação, será necessário executar os seguintes comandos:
 ```
 
 ## Imagens do projeto
-<div style="justify-content: space-between d-flex">
-![image](Screenshot_20230202_091228.png)
-![image](Screenshot_20230202_091228.png)
-![image](Screenshot_20230202_091337.png)
+<div style="d-flex">
+<img width="33%" src="Screenshot_20230202_091228.png">
+<img width="33%" src="Screenshot_20230202_091322.png">
+<img width="33%" src="Screenshot_20230202_091337.png">
 </div>
 
 
